@@ -9,7 +9,8 @@ The project was originally developed in order to perform exact diagonalization c
 The fock space for states is represented in binary
 with following layers.
 
-$$
+
+```math
 \begin{aligned}
 
 \text{Spin} &\rightarrow [\uparrow][\downarrow] = [0][1] \\
@@ -18,7 +19,7 @@ $$
 
 \text{Site} &\rightarrow n_{site} \; \text{Orbital}
 \end{aligned}
-$$
+```
 
 A spin 1/2 system occupies $2n_{orbitals} \cdot n_{sites}$ bits.
 
