@@ -1,0 +1,9 @@
+name = "ED"
+uuid = "26287f74-5db6-41d2-9207-c8aa7bc056c0"
+authors = ["Sagar Ramchandani <sramchan@thp.uni-koeln.de>"]
+version = "0.1.0"
+
+[deps]
+Arpack = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
